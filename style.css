@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Pushster&display=swap');
+
+body
+{
+    background-color: white;
+    color: rgb(3, 2, 7);
+}
+.nav
+{
+    display: grid;
+    place-items: center;
+}
+.bdy
+{
+    text-align: center;
+    width: 50%;
+    margin: 0px auto;
+    border: 20px solid grey;
+    box-shadow: inset;
+    border-radius: 20px;
+    background-color: rgb(230, 238, 238);
+
+    padding: 20px ;
+    margin-bottom: 30px;
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(240, 248, 255);
+    font-family: 'Pushster';
+    padding: 20px ;
+    margin-bottom: 30px;
+}
+h2{
+    text-align: center;
+    
+    font-family: 'Pushster';
+    padding: 60px ;
+    font-size: 100px;
+    margin-bottom: 30px;
+}
+button{
+    padding: 10px;
+    margin: 4px;
+}
